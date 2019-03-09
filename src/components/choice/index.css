@@ -1,0 +1,24 @@
+.container{
+    position: relative;
+    width: 100%;
+    height: 580px;
+    background-image: url(../../img/ukraine-map-coloring-page.png);
+    background-repeat: no-repeat;
+    background-position: center 0;
+   background-size: 50% 100%;
+}
+
+.kh{    
+    position: absolute;
+    right: 34%;
+    top: 31%;
+    color: red;
+}
+
+.kh-page{
+    width: 100%;
+    height: 500px;
+    background-image: url(../../img/city/COA_of_Kharkiv_Oblast.svg.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
